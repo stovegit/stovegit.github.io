@@ -1,6 +1,6 @@
 body {
 	font-family:Comic Sans MS;
-	background-color:green;
+	background-color:#2b76cb;
 }
 
 #summary{
@@ -17,4 +17,9 @@ body {
 }
 #normal{
 	font-family:Courier New;
+}
+h1{
+	border: 3px dotted black;
+	padding: 13px;
+	margin-center: 750px;
 }
