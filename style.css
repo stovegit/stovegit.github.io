@@ -23,3 +23,13 @@ h1{
 	padding: 13px;
 	margin-center: 750px;
 }
+#shiba{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+#shiba2{
+	position: fixed;
+	bottom: 10px;
+	left: 5px;
+}
