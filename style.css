@@ -8,8 +8,13 @@ body {
 }
 
 #ok{
+	font-family:Comic Sans MS;
 	color:red;
 }
 #di{
+	font-family:Comic Sans MS;
 	color:darkgreen;
+}
+#normal{
+	font-family:Courier New;
 }
