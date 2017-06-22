@@ -1,7 +1,9 @@
 body {
 	font-family:Comic Sans MS;
 	background-color:#2b76cb;
+	height:5000px;
 }
+
 
 #summary{
 	color:purple;
@@ -15,10 +17,14 @@ body {
 	font-family:Comic Sans MS;
 	color:darkgreen;
 }
+#die{
+	font-family:Comic Sans MS;
+	color:#1496a5;
+}
 #normal{
 	font-family:Courier New;
 }
-h1{
+h1{		
 	border: 3px dotted black;
 	padding: 13px;
 	margin-center: 750px;
@@ -32,4 +38,17 @@ h1{
 	position: fixed;
 	bottom: 10px;
 	left: 5px;
+}
+img{
+	margin auto
+	display:inline;
+}
+#2_do{
+	margin-left: 500px;
+}
+h3{
+	text-decoration:underline}
+}
+.code{
+	font-family:monospace;
 }
